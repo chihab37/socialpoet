@@ -1,6 +1,6 @@
 # Cartedepoezii
 
-![Screenshot of Cartedepoezii](.github/assets/Screenshot.png)
+![Screenshot of socialpoet](.github/assets/Screenshot.png)
 
 ## Introduction
 
