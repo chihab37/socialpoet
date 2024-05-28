@@ -6,7 +6,7 @@ databases:
 
 services:
   type: web
-  name: Cartedepoezii API
+  name: Socialpoet API
   env: python
   repo: https://github.com/chihab37/socialpoet.git
   region: oregon
