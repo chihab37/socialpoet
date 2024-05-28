@@ -8,7 +8,7 @@ services:
   type: web
   name: Cartedepoezii API
   env: python
-  repo: https://github.com/B3zaleel/Cartedepoezii.git
+  repo: https://github.com/chihab37/socialpoet.git
   region: oregon
   plan: free
   branch: main
