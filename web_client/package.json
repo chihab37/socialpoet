@@ -1,10 +1,10 @@
 {
-  "name": "Cartedepoezii",
+  "name": "Socialpoet",
   "version": "0.1.0",
   "private": true,
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/B3zaleel/Cartedepoezii"
+    "url": "https://github.com/chihab37/socialpoet"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
